@@ -5,7 +5,7 @@ This repository follows the token list standard, see [Uniswap's token-list repo]
 ## Adding a token
 
 To request that we add a token to the list,
-[file an issue](https://github.com/jesse-sawa/celo-default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
+[file an issue](https://github.com/jesse-sawa/celo-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
 
 ### Disclaimer
 
