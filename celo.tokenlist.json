@@ -2,7 +2,7 @@
   "name": "Celo Token List",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/celo_logo.svg",
@@ -13,6 +13,14 @@
   ],
   "timestamp": "2022-05-25T20:37:00.000+00:00",
   "tokens": [
+    {
+      "name": "Portal Ether",
+      "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETH.png"
+    },
     {
       "name": "wrapped.com Ethereum",
       "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
