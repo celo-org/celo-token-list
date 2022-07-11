@@ -38,22 +38,6 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
     },
     {
-      "name": "Rewards CELO",
-      "address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
-      "symbol": "rCELO",
-      "decimals": 18,
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_rCELO.png"
-    },
-    {
-      "name": "Savings CELO",
-      "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
-      "symbol": "sCELO",
-      "decimals": 18,
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_sCELO.png"
-    },
-    {
       "name": "Celo Moss Carbon Credit",
       "address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",
       "symbol": "cMCO2",
@@ -564,22 +548,6 @@
       "decimals": 18,
       "chainId": 44787,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSD.png"
-    },
-    {
-      "name": "Savings CELO",
-      "address": "0xb9B532e99DfEeb0ffB4D3EDB499f09375CF9Bf07",
-      "symbol": "sCELO",
-      "decimals": 18,
-      "chainId": 44787,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_sCELO.png"
-    },
-    {
-      "name": "Rewards CELO",
-      "address": "0xBDeedCDA79BAbc4Eb509aB689895a3054461691e",
-      "symbol": "rCELO",
-      "decimals": 18,
-      "chainId": 44787,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_rCELO.png"
     },
     {
       "name": "Celo",
