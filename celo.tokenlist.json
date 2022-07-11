@@ -174,14 +174,6 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDC.png"
     },
     {
-      "name": "Optics USDC v2 POS",
-      "address": "0x1bfc26cE035c368503fAE319Cc2596716428ca44",
-      "decimals": 6,
-      "symbol": "USDC-POS",
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets//logo.png"
-    },
-    {
       "name": "Optics v2 USDT",
       "address": "0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0",
       "decimals": 6,
