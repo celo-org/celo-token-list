@@ -19,7 +19,7 @@
       "symbol": "USDCet",
       "decimals": 6,
       "chainId": 42220,
-      "logoURI": "https://github.com/certusone/wormhole-token-list/blob/main/assets/USDCet_wh_small.png"
+      "logoURI": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh_small.png"
     },
     {
       "name": "DAI Stablecoin (Portal)",
@@ -27,7 +27,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://github.com/certusone/wormhole-token-list/blob/main/assets/DAI_wh_small.png"
+      "logoURI": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DAI_wh_small.png"
     },
     {
       "name": "Portal Ether",
