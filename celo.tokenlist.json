@@ -14,6 +14,22 @@
   "timestamp": "2022-05-25T20:37:00.000+00:00",
   "tokens": [
     {
+      "name": "USDC (Portal from Ethereum)",
+      "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+      "symbol": "USDCet",
+      "decimals": 6,
+      "chainId": 42220,
+      "logoURI": "https://github.com/certusone/wormhole-token-list/blob/main/assets/USDCet_wh_small.png"
+    },
+    {
+      "name": "DAI Stablecoin (Portal)",
+      "address": "0x97926a82930bb7B33178E3c2f4ED1BFDc91A9FBF",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://github.com/certusone/wormhole-token-list/blob/main/assets/DAI_wh_small.png"
+    },
+    {
       "name": "Portal Ether",
       "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
       "symbol": "ETH",
