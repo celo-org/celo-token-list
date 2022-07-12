@@ -30,7 +30,7 @@
       "logoURI": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DAI_wh_small.png"
     },
     {
-      "name": "Portal Ether",
+      "name": "Wrapped Ether (Wormhole)",
       "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
       "symbol": "WETH",
       "decimals": 18,
