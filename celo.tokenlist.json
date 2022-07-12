@@ -32,7 +32,7 @@
     {
       "name": "Portal Ether",
       "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
-      "symbol": "ETH",
+      "symbol": "WETH",
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETH.png"
