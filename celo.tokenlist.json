@@ -70,22 +70,6 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png"
     },
     {
-      "name": "Moola cUSD DEPRECATED",
-      "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
-      "symbol": "mcUSDxOLD",
-      "decimals": 18,
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSDxOLD.png"
-    },
-    {
-      "name": "Moola CELO DEPRECATED",
-      "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
-      "symbol": "mCELOxOLD",
-      "decimals": 18,
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELOxOLD.png"
-    },
-    {
       "name": "Celo Dollar",
       "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
       "symbol": "cUSD",
@@ -100,14 +84,6 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cXOF.png"
-    },
-    {
-      "name": "Moola cEUR DEPRECATED",
-      "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
-      "symbol": "mcEURxOLD",
-      "decimals": 18,
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEURxOLD.png"
     },
     {
       "name": "wrapped.com Bitcoin",
@@ -172,14 +148,6 @@
       "symbol": "USDC",
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDC.png"
-    },
-    {
-      "name": "Optics USDC v2 POS",
-      "address": "0x1bfc26cE035c368503fAE319Cc2596716428ca44",
-      "decimals": 6,
-      "symbol": "USDC-POS",
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets//logo.png"
     },
     {
       "name": "Optics v2 USDT",
@@ -414,28 +382,12 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
     },
     {
-      "name": "TrueFeedBack DEPRECATED",
-      "address": "0x035eE610693a29Cb77fD6eFBEb9d9d278703e145",
-      "symbol": "TFBXxOLD",
-      "decimals": 18,
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_TFBXxOLD.png"
-    },
-    {
       "name": "Poof v1 EUR",
       "address": "0x56072D4832642dB29225dA12d6Fd1290E4744682",
       "symbol": "pEURxV1",
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
-    },
-    {
-      "name": "Symmetric DEPRECATED",
-      "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
-      "symbol": "SYMMxOLD",
-      "decimals": 18,
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMMxOLD.png"
     },
     {
       "name": "Marzipan Finance",
@@ -540,22 +492,6 @@
       "decimals": 18,
       "chainId": 44787,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO.png"
-    },
-    {
-      "name": "Moola cUSD DEPRECATED",
-      "address": "0x71DB38719f9113A36e14F409bAD4F07B58b4730b",
-      "symbol": "mcUSDxOLD",
-      "decimals": 18,
-      "chainId": 44787,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSDxOLD.png"
-    },
-    {
-      "name": "Moola CELO DEPRECATED",
-      "address": "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003",
-      "symbol": "mCELOxOLD",
-      "decimals": 18,
-      "chainId": 44787,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELOxOLD.png"
     },
     {
       "name": "Celo Dollar",
