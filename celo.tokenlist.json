@@ -2,7 +2,7 @@
   "name": "Celo Token List",
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/celo_logo.svg",
@@ -13,6 +13,14 @@
   ],
   "timestamp": "2022-05-25T20:37:00.000+00:00",
   "tokens": [
+    {
+      "name": "Nature Carbon Tonne",
+      "address": "0x02de4766c272abc10bc88c220d214a26960a7e92",
+      "symbol": "NCT",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://toucan.earth/img/icons/nct.svg"
+    },
     {
       "name": "USDC (Portal from Ethereum)",
       "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
