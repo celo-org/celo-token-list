@@ -14,6 +14,14 @@
   "timestamp": "2022-05-25T20:37:00.000+00:00",
   "tokens": [
     {
+      "name": "Staked Celo",
+      "address": "0xC668583dcbDc9ae6FA3CE46462758188adfdfC24",
+      "symbol": "stCelo",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/token-stcelo.svg"
+    },
+    {
       "name": "Nature Carbon Tonne",
       "address": "0x02de4766c272abc10bc88c220d214a26960a7e92",
       "symbol": "NCT",
