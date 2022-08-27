@@ -14,6 +14,14 @@
   "timestamp": "2022-05-25T20:37:00.000+00:00",
   "tokens": [
     {
+      "name": "cRecy",
+      "address": "0x34C11A932853Ae24E845Ad4B633E3cEf91afE583",
+      "symbol": "cRecy",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://www.flickr.com/photos/196366457@N02/52314278548/"
+    },
+    {
       "name": "Staked Celo",
       "address": "0xC668583dcbDc9ae6FA3CE46462758188adfdfC24",
       "symbol": "stCelo",
