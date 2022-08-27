@@ -7,6 +7,20 @@ This repository follows the token list standard, see [Uniswap's token-list repo]
 To request that we add a token to the list,
 [file an issue](https://github.com/jesse-sawa/celo-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
 
+with the issue description in the following format
+
+Example:
+```json
+    {
+      "name": "Staked Celo",
+      "address": "0xC668583dcbDc9ae6FA3CE46462758188adfdfC24",
+      "symbol": "stCelo",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/token-stcelo.svg"
+    }
+```
+
 ### Disclaimer
 
 Note filing an issue does not guarantee addition to this default token list.
