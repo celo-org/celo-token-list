@@ -2,7 +2,7 @@
   "name": "Celo Token List",
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/celo_logo.svg",
@@ -13,6 +13,22 @@
   ],
   "timestamp": "2022-05-25T20:37:00.000+00:00",
   "tokens": [
+    {
+      "name": "Green CELO",
+      "address": "0x8a1639098644a229d08f441ea45a63ae050ee018",
+      "symbol": "gCELO",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/spiralsprotocol/spirals-brand/main/gCELO.svg"
+    },
+    {
+      "name": "Green cUSD",
+      "address": "0xFB42E2e90fc79CfA6A6B4EBa4877d5Faf4e29287",
+      "symbol": "gcUSD",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/spiralsprotocol/spirals-brand/main/gcUSD.svg"
+    },
     {
       "name": "cRecy",
       "address": "0x34C11A932853Ae24E845Ad4B633E3cEf91afE583",
