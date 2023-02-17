@@ -2,7 +2,7 @@
   "name": "Celo Token List",
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/celo_logo.svg",
@@ -548,6 +548,14 @@
       "decimals": 18,
       "chainId": 44787,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png"
+    },
+    {
+      "name": "AtlasX Carbon Credits",
+      "address": "0xc3377Ea71F1dc8e55Ba360724eff2d7aD62a8670",
+      "symbol": "ATLASX",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://myterrablobs.blob.core.windows.net/public/token-icon.png"
     }
   ]
 }
