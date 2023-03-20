@@ -2,7 +2,7 @@
   "name": "Celo Token List",
   "version": {
     "major": 1,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/celo_logo.svg",
@@ -556,6 +556,14 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://myterrablobs.blob.core.windows.net/public/token-icon.png"
+    },
+    {
+      "name": "PLASTIK Token",
+      "address": "0x27cd006548dF7C8c8e9fdc4A67fa05C2E3CA5CF9",
+      "symbol": "PLASTIK",
+      "decimals": 9,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PLASTIK.png"
     }
   ]
 }
