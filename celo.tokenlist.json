@@ -2,7 +2,7 @@
   "name": "Celo Token List",
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/celo_logo.svg",
@@ -564,6 +564,14 @@
       "decimals": 9,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PLASTIK.png"
+    },
+    {
+      "name": "Curve DAO Token",
+      "address": "0x173fd7434B8B50dF08e3298f173487ebDB35FD14",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/curvefi/curve-assets/main/branding/logo.svg"
     }
   ]
 }
