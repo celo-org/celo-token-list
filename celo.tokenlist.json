@@ -2,7 +2,7 @@
   "name": "Celo Token List",
   "version": {
     "major": 1,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/celo_logo.svg",
@@ -588,6 +588,14 @@
     "decimals": 18,
     "chainId": 42220,
     "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/wormhole_wbtc.png"
+    },
+    {
+    "name": "Good Dollar",
+    "address": "0x62B8B11039FcfE5aB0C56E502b1C372A3d2a9c7A",
+    "symbol": "G$",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/GoodDollar/GoodDAPP/master/src/assets/Splash/logo.svg"
     }
   ]
 }
