@@ -2,7 +2,7 @@
   "name": "Celo Token List",
   "version": {
     "major": 1,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/celo_logo.svg",
@@ -596,6 +596,15 @@
     "decimals": 18,
     "chainId": 42220,
     "logoURI": "https://raw.githubusercontent.com/GoodDollar/GoodDAPP/master/src/assets/Splash/logo.svg"
+    },
+    {
+    "name": "Axelar Wrapped Eth",
+    "address": "0xb829b68f57cc546da7e5806a929e53be32a4625d",
+    "symbol": "axlEth",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/axelar_eth.png"
     }
+
   ]
 }
