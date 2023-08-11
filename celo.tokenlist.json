@@ -582,36 +582,36 @@
       "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/axelar_wbtc.svg"
     },
     {
-    "name": "Wormhole Wrapped Bitcoin",
-    "address": "0xd71Ffd0940c920786eC4DbB5A12306669b5b81EF",
-    "symbol": "WBTC",
-    "decimals": 18,
-    "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/wormhole_wbtc.png"
+      "name": "Wormhole Wrapped Bitcoin",
+      "address": "0xd71Ffd0940c920786eC4DbB5A12306669b5b81EF",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/wormhole_wbtc.png"
     },
     {
-    "name": "Good Dollar",
-    "address": "0x62B8B11039FcfE5aB0C56E502b1C372A3d2a9c7A",
-    "symbol": "G$",
-    "decimals": 18,
-    "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/GoodDollar/GoodDAPP/master/src/assets/Splash/logo.svg"
+      "name": "Good Dollar",
+      "address": "0x62B8B11039FcfE5aB0C56E502b1C372A3d2a9c7A",
+      "symbol": "G$",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/GoodDollar/GoodDAPP/master/src/assets/Splash/logo.svg"
     },
     {
-    "name": "Axelar Wrapped Eth",
-    "address": "0xb829b68f57cc546da7e5806a929e53be32a4625d",
-    "symbol": "axlEth",
-    "decimals": 18,
-    "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/axelar_eth.png"
+      "name": "Axelar Wrapped Eth",
+      "address": "0xb829b68f57cc546da7e5806a929e53be32a4625d",
+      "symbol": "axlEth",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/axelar_eth.png"
     },
     {
-    "name": "JumpToken",
-    "address": "0x1d18d0386f51ab03e7e84e71bda1681eba865f1f",
-    "symbol": "JMPT",
-    "decimals": 18,
-    "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/jumpToken.png"
+      "name": "JumpToken",
+      "address": "0x1d18d0386f51ab03e7e84e71bda1681eba865f1f",
+      "symbol": "JMPT",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/jumpToken.png"
     }
   ]
 }
