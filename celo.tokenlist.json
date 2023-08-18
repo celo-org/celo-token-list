@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/celo_logo.svg",
+  "logoURI": "https://celo-org.github.io/celo-token-list/assets/celo_logo.svg",
   "keywords": [
     "celo",
     "tokens",
@@ -43,7 +43,7 @@
       "symbol": "stCelo",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/token-stcelo.svg"
+      "logoURI": "https://celo-org.github.io/celo-token-list/assets/token-stcelo.svg"
     },
     {
       "name": "Nature Carbon Tonne",
@@ -107,7 +107,7 @@
       "symbol": "CELO",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/celo_logo.png"
+      "logoURI": "https://celo-org.github.io/celo-token-list/assets/celo_logo.svg"
     },
     {
       "name": "Celo Dollar",
@@ -579,7 +579,7 @@
       "symbol": "axlWBTC",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/axelar_wbtc.svg"
+      "logoURI": "https://celo-org.github.io/celo-token-list/assets/axelar_wbtc.svg"
     },
     {
       "name": "Wormhole Wrapped Bitcoin",
@@ -587,7 +587,7 @@
       "symbol": "WBTC",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/wormhole_wbtc.png"
+      "logoURI": "https://celo-org.github.io/celo-token-list/assets/wormhole_wbtc.png"
     },
     {
       "name": "Good Dollar",
@@ -603,7 +603,7 @@
       "symbol": "axlEth",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/axelar_eth.png"
+      "logoURI": "https://celo-org.github.io/celo-token-list/assets/axelar_eth.png"
     },
     {
       "name": "JumpToken",
@@ -611,7 +611,7 @@
       "symbol": "JMPT",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/jumpToken.png"
+      "logoURI": "https://celo-org.github.io/celo-token-list/assets/jumpToken.png"
     }
   ]
 }
