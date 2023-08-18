@@ -1,8 +1,8 @@
 {
   "name": "Celo Token List",
   "version": {
-    "major": 1,
-    "minor": 11,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/celo_logo.svg",
@@ -70,15 +70,15 @@
       "logoURI": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DAI_wh_small.png"
     },
     {
-      "name": "Portal Ether",
+      "name": "Portal WETH",
       "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
-      "symbol": "ETH",
+      "symbol": "WETH",
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETH.png"
     },
     {
-      "name": "wrapped.com Ethereum",
+      "name": "wrapped.com ETH",
       "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
       "symbol": "cETH",
       "decimals": 18,
@@ -107,7 +107,7 @@
       "symbol": "CELO",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png"
+      "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/celo_logo.png"
     },
     {
       "name": "Celo Dollar",
@@ -598,7 +598,7 @@
       "logoURI": "https://raw.githubusercontent.com/GoodDollar/GoodDAPP/master/src/assets/Splash/logo.svg"
     },
     {
-      "name": "Axelar Wrapped Eth",
+      "name": "Axelar WETH",
       "address": "0xb829b68f57cc546da7e5806a929e53be32a4625d",
       "symbol": "axlEth",
       "decimals": 18,
