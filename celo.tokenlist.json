@@ -107,7 +107,7 @@
       "symbol": "CELO",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png"
+      "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/celo_logo.png"
     },
     {
       "name": "Celo Dollar",
