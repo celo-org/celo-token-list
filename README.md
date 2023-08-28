@@ -17,7 +17,7 @@ Example:
       "symbol": "stCelo",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/token-stcelo.svg"
+      "logoURI": "https://celo-org.github.io/celo-token-list/assets/token-stcelo.svg"
     }
 ```
 
