@@ -21,6 +21,8 @@ Example:
     }
 ```
 
+Note: to ensure synchronicity with the corresponding brand, the ```logoURI``` should be hosted by the team responsible for deploying the token. However, the image can also be added to the '''/assets''' folder so that it is available in the same manner above (https://celo-org.github.io/celo-token-list/assets/{your_token_icon}.  
+
 ### Disclaimer
 
 Note filing an issue does not guarantee addition to this default token list.
