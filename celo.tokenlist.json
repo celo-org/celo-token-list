@@ -2,7 +2,7 @@
   "name": "Celo Token List",
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://celo-org.github.io/celo-token-list/assets/celo_logo.svg",
@@ -612,6 +612,14 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://celo-org.github.io/celo-token-list/assets/jumpToken.png"
+    },
+    {
+      "name": "Glo Dollar",
+      "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+      "symbol": "USDGLO",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://celo-org.github.io/celo-token-list/assets/glodollar_logo.png"
     }
   ]
 }
