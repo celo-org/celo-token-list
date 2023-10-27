@@ -2,15 +2,11 @@
   "name": "Celo Token List",
   "version": {
     "major": 2,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://celo-org.github.io/celo-token-list/assets/celo_logo.svg",
-  "keywords": [
-    "celo",
-    "tokens",
-    "refi"
-  ],
+  "keywords": ["celo", "tokens", "refi"],
   "timestamp": "2022-05-25T20:37:00.000+00:00",
   "tokens": [
     {
@@ -620,6 +616,30 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://app.glodollar.org/glo-logo.svg"
+    },
+    {
+      "name": "Curve DAO Token",
+      "address": "0x173fd7434B8B50dF08e3298f173487ebDB35FD14",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/curvefi/curve-assets/main/branding/logo.svg"
+    },
+    {
+      "name": "AtlasX Carbon Credits",
+      "address": "0xc3377Ea71F1dc8e55Ba360724eff2d7aD62a8670",
+      "symbol": "ATLASX",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://myterrablobs.blob.core.windows.net/public/token-icon.png"
+    },
+    {
+      "name": "agEUR",
+      "address": "0xC16B81Af351BA9e64C1a069E3Ab18c244A1E3049",
+      "symbol": "agEUR",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-celo.svg"
     }
   ]
 }
