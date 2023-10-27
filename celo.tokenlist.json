@@ -624,6 +624,14 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/curvefi/curve-assets/main/branding/logo.svg"
+    },
+    {
+      "name": "AtlasX Carbon Credits",
+      "address": "0xc3377Ea71F1dc8e55Ba360724eff2d7aD62a8670",
+      "symbol": "ATLASX",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://myterrablobs.blob.core.windows.net/public/token-icon.png"
     }
   ]
 }
