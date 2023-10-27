@@ -632,6 +632,14 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://myterrablobs.blob.core.windows.net/public/token-icon.png"
+    },
+    {
+      "name": "agEUR",
+      "address": "0xC16B81Af351BA9e64C1a069E3Ab18c244A1E3049",
+      "symbol": "agEUR",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-celo.svg"
     }
   ]
 }
