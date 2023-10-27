@@ -6,11 +6,7 @@
     "patch": 0
   },
   "logoURI": "https://celo-org.github.io/celo-token-list/assets/celo_logo.svg",
-  "keywords": [
-    "celo",
-    "tokens",
-    "refi"
-  ],
+  "keywords": ["celo", "tokens", "refi"],
   "timestamp": "2022-05-25T20:37:00.000+00:00",
   "tokens": [
     {
@@ -620,6 +616,14 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://app.glodollar.org/glo-logo.svg"
+    },
+    {
+      "name": "Curve DAO Token",
+      "address": "0x173fd7434B8B50dF08e3298f173487ebDB35FD14",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/curvefi/curve-assets/main/branding/logo.svg"
     }
   ]
 }
