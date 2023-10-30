@@ -13,9 +13,13 @@ Hello there, I would like the following token to be added to the celo-token-list
     "symbol": "TODO",
     "decimals": TODO,
     "chainId": 42220,
-    "logoURI": "https://celo-org.github.io/celo-token-list/assets/TODO.svg"
+    "logoURI": "https://example.com/assets/TODO.svg"
 }
 ```
+
+<!---
+Note: to ensure synchronicity with the corresponding brand, the logoURI should be hosted by the team responsible for deploying the token. However, the image can also be added to the '''/assets''' folder so that it is available in the same manner above (https://celo-org.github.io/celo-token-list/assets/{your_token_icon}.
+!-->
 
 Here is the tracker URL:
 https://celoscan.io/token/TODO
