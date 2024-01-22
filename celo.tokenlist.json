@@ -640,6 +640,14 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-celo.svg"
+    },
+    {
+      "name": "EURC (Wormhole)",
+      "address": "0xBddC3554269053544bE0d6d027a73271225E9859",
+      "symbol": "EURC",
+      "decimals": 6,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/EURC_wh.png"
     }
   ]
 }
