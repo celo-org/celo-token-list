@@ -648,7 +648,7 @@
       "decimals": 6,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/EURC_wh.png"
-    }
+    },
     {
       "name": "USD Coin",
       "address": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C",
