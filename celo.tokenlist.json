@@ -2,8 +2,8 @@
   "name": "Celo Token List",
   "version": {
     "major": 2,
-    "minor": 4,
-    "patch": 1
+    "minor": 5,
+    "patch": 0
   },
   "logoURI": "https://celo-org.github.io/celo-token-list/assets/celo_logo.svg",
   "keywords": ["celo", "tokens", "refi"],
