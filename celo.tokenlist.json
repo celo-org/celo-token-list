@@ -2,8 +2,8 @@
   "name": "Celo Token List",
   "version": {
     "major": 2,
-    "minor": 4,
-    "patch": 1
+    "minor": 5,
+    "patch": 0
   },
   "logoURI": "https://celo-org.github.io/celo-token-list/assets/celo_logo.svg",
   "keywords": ["celo", "tokens", "refi"],
@@ -48,6 +48,14 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://toucan.earth/img/icons/nct.svg"
+    },
+    {
+      "name": "Biochar",
+      "address": "0x50E85c754929840B58614F48e29C64BC78C58345",
+      "symbol": "CHAR",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://app.toucan.earth/svg/pools/char.svg"
     },
     {
       "name": "USDC (Portal from Ethereum)",
