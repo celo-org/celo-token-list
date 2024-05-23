@@ -2,7 +2,7 @@
   "name": "Celo Token List",
   "version": {
     "major": 2,
-    "minor": 3,
+    "minor": 5,
     "patch": 0
   },
   "logoURI": "https://celo-org.github.io/celo-token-list/assets/celo_logo.svg",
@@ -48,6 +48,14 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://toucan.earth/img/icons/nct.svg"
+    },
+    {
+      "name": "Biochar",
+      "address": "0x50E85c754929840B58614F48e29C64BC78C58345",
+      "symbol": "CHAR",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://app.toucan.earth/svg/pools/char.svg"
     },
     {
       "name": "USDC (Portal from Ethereum)",
@@ -648,6 +656,14 @@
       "decimals": 6,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/EURC_wh.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     }
     {
       "name": "USD Coin",
