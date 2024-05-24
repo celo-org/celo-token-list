@@ -664,7 +664,7 @@
       "decimals": 6,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
-    }
+    },
     {
       "name": "USD Coin",
       "address": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C",
@@ -672,7 +672,7 @@
       "decimals": 6,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
-    }
+    },
     {
       "name": "Celo Kenyan Shilling",
       "address": "0x456a3D042C0DbD3db53D5489e98dFb038553B0d0",
