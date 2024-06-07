@@ -666,12 +666,12 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     },
     {
-      "name": "USD Coin",
-      "address": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C",
-      "symbol": "USDC",
+      "name": "Tether USD",
+      "address": "0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e",
+      "symbol": "USDT",
       "decimals": 6,
       "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
       "name": "Celo Kenyan Shilling",
