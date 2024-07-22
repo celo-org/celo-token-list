@@ -683,7 +683,7 @@
     },
     {
       "name": "ECO CFA (West African Franc)",
-      "address": "0x456a3D042C0DbD3db53D5489e98dFb038553B0d0",
+      "address": "0x73F93dcc49cB8A239e2032663e9475dd5ef29A08",
       "symbol": "eXOF",
       "decimals": 18,
       "chainId": 42220,
