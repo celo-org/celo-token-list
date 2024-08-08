@@ -680,6 +680,14 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://github.com/mento-protocol/mento-web/blob/main/src/images/tokens/cKES.svg"
+    },
+    {
+      "name": "ECO CFA (West African Franc)",
+      "address": "0x73F93dcc49cB8A239e2032663e9475dd5ef29A08",
+      "symbol": "eXOF",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://github.com/mento-protocol/mento-web/blob/main/src/images/tokens/eXOF.svg"
     }
   ]
 }
