@@ -688,6 +688,14 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://github.com/mento-protocol/mento-web/blob/main/src/images/tokens/eXOF.svg"
+    },
+    {
+      "name": "COP Minteo",
+      "address": "0xC92E8Fc2947E32F2B574CCA9F2F12097A71d5606",
+      "symbol": "COPM",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://celo-org.github.io/celo-token-list/assets/minteo_copm.png"
     }
   ]
 }
