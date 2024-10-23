@@ -682,6 +682,14 @@
       "logoURI": "https://github.com/mento-protocol/mento-web/blob/main/src/images/tokens/cKES.svg"
     },
     {
+      "name": "PUSO",
+      "address": "0x105d4A9306D2E55a71d2Eb95B81553AE1dC20d7B",
+      "symbol": "PUSO",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://github.com/mento-protocol/mento-web/blob/main/src/images/tokens/PUSO.svg"
+    },
+    {
       "name": "ECO CFA (West African Franc)",
       "address": "0x73F93dcc49cB8A239e2032663e9475dd5ef29A08",
       "symbol": "eXOF",
