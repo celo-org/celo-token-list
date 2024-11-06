@@ -687,7 +687,15 @@
       "symbol": "PUSO",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://github.com/mento-protocol/mento-web/blob/main/src/images/tokens/PUSO.svg"
+      "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/src/images/tokens/PUSO.svg"
+    },
+    {
+      "name": "Celo Colombian Peso",
+      "address": "0x8A567e2aE79CA692Bd748aB832081C45de4041eA",
+      "symbol": "cCOP",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/src/images/tokens/cCOP.svg"
     },
     {
       "name": "ECO CFA (West African Franc)",
@@ -695,7 +703,7 @@
       "symbol": "eXOF",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://github.com/mento-protocol/mento-web/blob/main/src/images/tokens/eXOF.svg"
+      "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/src/images/tokens/eXOF.svg"
     },
     {
       "name": "COP Minteo",
