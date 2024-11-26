@@ -624,6 +624,15 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://celo-org.github.io/celo-token-list/assets/minteo_copm.png"
+    },
+    {
+      "name": "PrideToken",
+      "address": "0xAE62Ca7e7Bc80C800DADc1c4b9175800033537cd",
+      "symbol": "PRD",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://pridefunding.org/assets/PrideToken/PrideTokenbg.svg"
     }
   ]
 }
+
