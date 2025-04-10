@@ -615,7 +615,7 @@
       "symbol": "cGHS",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/public/tokens/cCOP.svg"
+      "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/public/tokens/cGHS.svg"
     },
     {
       "name": "ECO CFA (West African Franc)",
