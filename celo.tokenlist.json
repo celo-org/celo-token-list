@@ -647,7 +647,7 @@
       "symbol": "wETH",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://celo-org.github.io/celo-token-list/assets/wethcelo_64.png"
+      "logoURI": "https://celoscan.io/token/images/wethcelo_64.pnggit"
     }
   ]
 }
