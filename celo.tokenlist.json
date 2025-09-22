@@ -2,7 +2,7 @@
   "name": "Celo Token List",
   "version": {
     "major": 3,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "logoURI": "https://celo-org.github.io/celo-token-list/assets/celo_logo.svg",
@@ -640,6 +640,14 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://pridefunding.org/assets/PrideToken/PrideTokenbg.svg"
+    }
+    ,{
+      "name": "wETH (Celo native bridge)",
+      "address": "0xd221812de1bd094f35587ee8e174b07b6167d9af",
+      "symbol": "wETH",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://celoscan.io/token/images/wethcelo_64.png"
     }
   ]
 }
