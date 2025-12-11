@@ -3,7 +3,7 @@
   "version": {
     "major": 3,
     "minor": 6,
-    "patch": 0
+    "patch": 1
   },
   "logoURI": "https://celo-org.github.io/celo-token-list/assets/celo_logo.svg",
   "keywords": ["celo", "tokens", "refi"],
@@ -592,6 +592,14 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/public/tokens/cKES.svg"
+    },
+    {
+      "name": "Wrapped BTC (Celo native bridge)",
+      "address": "0x8aC2901Dd8A1F17a1A4768A6bA4C3751e3995B2D",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 42220,
+      "logoURI": "https://celoscan.io/token/images/wbtccelo_32.svg"
     },
     {
       "name": "PUSO",
