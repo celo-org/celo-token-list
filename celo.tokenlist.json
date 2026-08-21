@@ -2,12 +2,12 @@
   "name": "Celo Token List",
   "version": {
     "major": 3,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "logoURI": "https://celo-org.github.io/celo-token-list/assets/celo_logo.svg",
   "keywords": ["celo", "tokens", "refi"],
-  "timestamp": "2022-05-25T20:37:00.000+00:00",
+  "timestamp": "2026-08-21T00:00:00.000+00:00",
   "tokens": [
     {
       "name": "Green CELO",
@@ -538,22 +538,6 @@
       "logoURI": "https://app.glodollar.org/glo-logo.svg"
     },
     {
-      "name": "Curve DAO Token",
-      "address": "0x173fd7434B8B50dF08e3298f173487ebDB35FD14",
-      "symbol": "CRV",
-      "decimals": 18,
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/curvefi/curve-assets/main/branding/logo.svg"
-    },
-    {
-      "name": "AtlasX Carbon Credits",
-      "address": "0xc3377Ea71F1dc8e55Ba360724eff2d7aD62a8670",
-      "symbol": "ATLASX",
-      "decimals": 18,
-      "chainId": 42220,
-      "logoURI": "https://myterrablobs.blob.core.windows.net/public/token-icon.png"
-    },
-    {
       "name": "agEUR",
       "address": "0xC16B81Af351BA9e64C1a069E3Ab18c244A1E3049",
       "symbol": "agEUR",
@@ -704,14 +688,30 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://pridefunding.org/assets/PrideToken/PrideTokenbg.svg"
-    }
-    ,{
+    },
+    {
       "name": "wETH (Celo native bridge)",
       "address": "0xd221812de1bd094f35587ee8e174b07b6167d9af",
       "symbol": "wETH",
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://celoscan.io/token/images/wethcelo_64.png"
+    },
+    {
+      "name": "Amahoro",
+      "address": "0x06CAe70F74847f35De1e81F83641EE1B3FAa3bfa",
+      "symbol": "AMHR",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/celo-org/celo-token-list/main/assets/AMHR.png"
+    },
+    {
+      "name": "Inkoko",
+      "address": "0xc9FDC4b46EcD63BaB35FFbfE04D2e1903F47be0e",
+      "symbol": "KOKO",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/celo-org/celo-token-list/main/assets/KOKO.png"
     }
   ]
 }
