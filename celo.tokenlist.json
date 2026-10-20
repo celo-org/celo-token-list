@@ -730,14 +730,6 @@
       "logoURI": "https://celo-org.github.io/celo-token-list/assets/cngn.png"
     },
     {
-      "name": "IDRX",
-      "address": "0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22",
-      "symbol": "IDRX",
-      "decimals": 2,
-      "chainId": 42220,
-      "logoURI": "https://celo-org.github.io/celo-token-list/assets/idrx.png"
-    },
-    {
       "name": "Peso Argentino",
       "address": "0x0dc4f92879b7670e5f4e4e6e3c801d229129d90d",
       "symbol": "wARS",
